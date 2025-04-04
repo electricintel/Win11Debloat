@@ -347,3 +347,6 @@ The quick and advanced usage methods support switch parameters. A table of all t
 | -HideIncludeInLibrary               |    Hide the 'Include in library' option in the context menu. (Windows 10 only) |
 | -HideGiveAccessTo                   |    Hide the 'Give access to' option in the context menu. (Windows 10 only) |
 | -HideShare                          |    Hide the 'Share' option in the context menu. (Windows 10 only) |
+
+
+*This worked great for me, but Windows Defender Smartscreen was holding my little Pentium Gold back. Do yourseles a favor and turn it off. Much better speed.
