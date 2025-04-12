@@ -349,4 +349,4 @@ The quick and advanced usage methods support switch parameters. A table of all t
 | -HideShare                          |    Hide the 'Share' option in the context menu. (Windows 10 only) |
 
 
-*This worked great for me, but Windows Defender Smartscreen was holding my little Pentium Gold back. Do yourseles a favor and turn it off. Much better speed.
+*This worked great for me, but Windows Defender Smartscreen was holding my little Pentium Gold back. Do yourselves a favor and turn it off. Much better speed.
